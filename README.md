@@ -19,3 +19,22 @@ Run prisma migrations
 Run prisma studio (localhost:5555)
 `npx prisma studio`
 
+HTTP via CLI
+https://httpie.io/cli
+
+Prisma Entity RelationShip Diagram Generator
+https://www.npmjs.com/package/prisma-erd-generator
+
+`npm i -D prisma-erd-generator @mermaid-js/mermaid-cli`
+`yarn add -D prisma-erd-generator @mermaid-js/mermaid-cli`
+
+Create Diagram
+`npx prisma generate`
+
+Execute seed
+`npx prisma db seed`
+
+Future Backlog:
+
+[ ] User control
+
