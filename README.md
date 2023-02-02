@@ -34,6 +34,12 @@ Create Diagram
 Execute seed
 `npx prisma db seed`
 
+Biblioteca ZOD
+`npm i zod`
+
+Biblioteca de datas
+`npm i dayjs`
+
 Future Backlog:
 
 [ ] User control
